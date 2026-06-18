@@ -119,6 +119,16 @@ const projects = [
     color: ORANGE,
     url: "ramdevsteelart.com",
   },
+  {
+    id: 5,
+    client: "Itech Computer Education",
+    sub: null,
+    industry: "Edtech",
+    services: ["WordPress Design", "Lead Generation", "SEO", "Social Media"],
+    desc: "Handled Itech Website, Seo, Social Media, Performance Marketing.",
+    color: BLUE,
+    url: "i-tech.net.in",
+  },
 ];
 
 const digitalSkills = ["SEO", "Social Media Marketing", "Google Ads", "Facebook Ads", "Content Strategy", "Lead Generation"];
